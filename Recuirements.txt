@@ -1,1 +1,2 @@
-pu
+pyTelegramBotAPI
+Pillow
